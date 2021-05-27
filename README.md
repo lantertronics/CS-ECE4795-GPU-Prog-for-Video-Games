@@ -1,1 +1,3 @@
-# CS-ECE4795-GPU-Prog-for-VIdeo-Games
+# CS-ECE4795-GPU-Prog-for-Video-Games
+
+Hi!
