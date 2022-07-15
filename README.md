@@ -12,4 +12,4 @@ When trying out one of the unitypackages, start with a blank vanilla "3D" projec
 
 For the GPU21PostProcStackBuiltInRP package, you will FIRST want to install Post-Processing Stack (v2) from the Unity Package manager and THEN import the package. You can load them in the opposite order, but then you will also need to invoke "Reimport All" to get everything to work.
 
-For the GPU22URPIntroShader package, you will FIRST want to install the Universal RP from the Unity Package manager and THEN import the package. You must then set the Scriptable Render Pipeline Asset in the Graphics tab of Project Settings to be the provided MyURPAsset.
+For the GPU22URPIntroShader package, you will want to start a blank URP project. Alternatively, you can start a standard built-in pipeline project, install the Universal RP from the Unity Package manager, import the the URPIntroShader package, then set the Scriptable Render Pipeline Asset in the Graphics tab of Project Settings to be the provided MyURPAsset.
